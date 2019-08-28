@@ -2,9 +2,7 @@
 
 ## Конфиги для Cura
 
-* [Sapphire S](https://www.facebook.com/groups/twotrees3Dprinter/permalink/1121656941350904/)
-* [Sapphire S #2](https://github.com/SteveJWallace/sapphire-s)
-* [Sapphire Pro](https://www.facebook.com/groups/twotrees3Dprinter/permalink/1121652258018039/)
+* [Sapphire S](https://github.com/SteveJWallace/sapphire-s)
 
 ## Конфиги для PrusaSlicer 2.0
 
