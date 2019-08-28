@@ -13,6 +13,7 @@
 ## Комьюнити
 
 * [Группа в Facebook](https://www.facebook.com/twotrees3Dprinter)
+* [Группа в VK](https://vk.com/twotrees3dprinter)
 * [Канал в Telegram](https://t.me/sapphire3d)
 
 ## Запчасти Sapphire S
